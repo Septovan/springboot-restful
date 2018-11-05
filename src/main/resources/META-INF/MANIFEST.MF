@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: id.tokoonderdil.study.springbootrestful.SpringbootRestfulA
+ pplication
+
